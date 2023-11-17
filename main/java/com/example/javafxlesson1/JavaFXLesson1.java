@@ -23,7 +23,7 @@ public class JavaFXLesson1 extends Application {
         pane.getChildren().add(label);
 
         Button button = new Button("Apasa Butonul");
-        button.setLayoutX(50);
+        button.setLayoutX(51);
         button.setLayoutY(30);
         //button.setTextFill(Color.RED);
        // button.setStyle("-fx-background-color: #00ff00");
